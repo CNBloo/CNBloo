@@ -4,17 +4,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-* 🌍  I'm based in Bloomington, IN
-* ✉️  You can contact me at [torres25883@gmail.com](mailto:torres25883@gmail.com)
-* 🧠  I'm learning Java, Python and HTML
-* 🤝  I'm open to collaborating on any projects
-* ⚡  I also play Rugby at IU
+Hi, I'm Jose Torres III – a passionate Computer Science and Informatics student at Indiana University. I'm deeply interested in software development, and problem-solving. Currently, I'm working on projects involving Java, Swift, Xcode, and C as well as exploring web development with HTML, CSS, and JavaScript. I'm also an active member of IU Men's Rugby and the Society of Hispanic Professional Engineers (SHPE). I'm always eager to learn new technologies, contribute to open-source, and collaborate on exciting projects. Feel free to check out my repositories and reach out if you want to connect!
+
+* 🌍  I'm based in Bloomington,IN
+* 🖥️  See my portfolio at [My Portfolio](http://cnbloo.github.io/Portfolio-Website/)
+* ✉️  You can contact me at [torres25883@gmail.com](mailto:torres25883@gmail.com)
+* 🧠  I'm learning Python,HTML and CSS
+* 🤝  I'm open to collaborating on any projects
+* ⚡  I am apart of Omega Psi Phi Fraternity Inc and play Rugby at IU
 
 ### Skills
 
+
 <p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
+
 
 ### Socials
 
