@@ -20,7 +20,7 @@ Computer Science Student
 * 🚀  I'm currently working on [Society Of Hispanic Professional Engineers Bloomington Website](http://cnbloo.github.io/SHPE-Website/)
 * 🧠  I'm learning Java and AWS Services
 * 🤝  I'm open to collaborating on any projects
-* ⚡  I am apart of Omega Psi Phi Fraternity Inc and play Rugby at IU
+* ⚡  I am apart of Omega Psi Phi Fraternity Inc
 
 ### Skills
 
