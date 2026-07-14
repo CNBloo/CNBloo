@@ -1,6 +1,6 @@
 # Hi, I'm Jose Torres 👋
 
-CS junior at Indiana University (Software Engineering focus, Business minor).
+CS Senior at Indiana University (Software Engineering focus, Business minor).
 I build full-stack web apps for real users — most recently a complete rental-business
 platform for a family business, and my SHPE chapter's website serving 100+ members.
 
