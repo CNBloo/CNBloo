@@ -1,6 +1,6 @@
 # Hi, I'm Jose Torres 👋
 
-Computer Science senior at **Indiana University Bloomington** with a concentration in **Software Engineering** and a **Business** minor.
+Computer Science senior at **Indiana University Bloomington** with a concentration in **Software Engineering** and a **Data Science, Business, and Marketing** minor.
 
 I enjoy building software that solves real problems. Recently, I've developed a full-stack rental management platform for a family business and continue expanding my skills through personal projects and hands-on infrastructure work. Outside of software development, I'm building a homelab to strengthen my knowledge of Linux, virtualization, networking, Docker, and self-hosting.
 
@@ -34,14 +34,11 @@ I enjoy building software that solves real problems. Recently, I've developed a 
 * Node.js
 * FastAPI
 * PostgreSQL
-* Supabase
 
 **Tools & Infrastructure**
 
 * Git & GitHub
 * GitHub Actions
-* Playwright
-* Vitest
 * Docker
 * Proxmox
 * Linux
