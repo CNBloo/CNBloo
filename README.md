@@ -16,10 +16,8 @@ I enjoy building software that solves real problems. Recently, I've developed a 
 
 **Languages**
 
-* TypeScript
-* JavaScript
-* Python
 * Java
+* Python
 * SQL
 * HTML/CSS
 
@@ -27,12 +25,10 @@ I enjoy building software that solves real problems. Recently, I've developed a 
 
 * React
 * Next.js
-* Tailwind CSS
 
 **Backend**
 
 * Node.js
-* FastAPI
 * PostgreSQL
 
 **Tools & Infrastructure**
@@ -44,8 +40,6 @@ I enjoy building software that solves real problems. Recently, I've developed a 
 * Linux
 
 ### 📌 Featured Projects
-
-* 🏢 **Rental Business Platform** — Full-stack application built for a real business to improve daily operations and management.
 
 * 🖥️ **Homelab Journey** *(In Progress)* — Documenting my experience building a home server environment with self-hosted services including Jellyfin, Pi-hole, VPN services, Docker containers, and virtual machines using Proxmox.
 
