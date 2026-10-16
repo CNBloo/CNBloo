@@ -48,5 +48,5 @@ I enjoy building software that solves real problems. Recently, I've developed a 
 ### 📫 Connect
 
 * 📧 **Email:** [torres25883@gmail.com](mailto:torres25883@gmail.com)
-* 🌐 **Portfolio:** https://cnbloo.github.io/Portfolio-Website/
+* 🌐 **Portfolio:** 
 * 💼 **LinkedIn:** https://www.linkedin.com/in/jose-torres-iii
