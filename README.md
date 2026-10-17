@@ -10,7 +10,6 @@ I enjoy building software that solves real problems. Recently, I've developed a 
 * 🏠 Building and documenting my homelab
 * 🐧 Linux, Docker, and Proxmox
 * ☁️ Backend development and cloud technologies
-* 📚 Preparing for Summer 2027 Software Engineering and IT opportunities
 
 ### 🛠️ Tech Stack
 
